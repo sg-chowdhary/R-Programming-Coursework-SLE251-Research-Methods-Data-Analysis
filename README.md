@@ -4,7 +4,7 @@ R programming coursework and statistical data analysis projects completed for SL
 
 This project was completed using R, primarily through the R Commander (Rcmdr) interface for data management, statistical analysis, and visualisation. The materials in this repository were originally completed in 2023 and have been uploaded retrospectively to GitHub to document my academic work and provide an accessible portfolio of previous projects.
 
-# Repository Contents
+# Repository Content
 - R programming worksheets and practical exercises
 - Statistical analysis outputs and visualisations
 - Scientific report and supporting materials
